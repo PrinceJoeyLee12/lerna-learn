@@ -1,11 +1,12 @@
 {
   "name": "pxrs-module",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "gitHead": "47b2488b722b8aecfbbb8bc5a5fa277c88598779"
 }

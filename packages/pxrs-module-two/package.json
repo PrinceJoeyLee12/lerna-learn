@@ -1,6 +1,6 @@
 {
   "name": "pxrs-module-two",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "gitHead": "47b2488b722b8aecfbbb8bc5a5fa277c88598779"
 }
