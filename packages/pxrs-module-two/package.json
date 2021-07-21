@@ -11,6 +11,7 @@
   "license": "MIT",
   "gitHead": "4318300168b865551aadd79d161128c9dc59423f",
   "dependencies": {
+    "pxrs-test": "^1.0.2",
     "typescipt": "^1.0.0"
   }
 }
