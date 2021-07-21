@@ -10,6 +10,7 @@
   "license": "MIT",
   "gitHead": "4318300168b865551aadd79d161128c9dc59423f",
   "dependencies": {
+    "pxrs-module-two": "^0.0.9",
     "typescipt": "^1.0.0"
   }
 }
