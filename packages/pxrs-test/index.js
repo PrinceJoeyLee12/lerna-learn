@@ -1,3 +1,4 @@
 export default function Module1() {
-    return "This is from Test"
+    const testString = "This is from Test"
+    return testString
 }
